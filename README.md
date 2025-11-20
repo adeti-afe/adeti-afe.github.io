@@ -19,6 +19,7 @@ This repo organizes my work, experience, and materials for fellowships and gradu
 ## Experience Highlights
 - **Chesapeake Conservancy – Chesapeake Tributary Intern**  
   Supported the "Gather and Grow" initiative using GIS to analyze watershed plans, identify priority planting areas, and connect restoration work to community needs in Baltimore City. Helped with access-to-greenspace equity work.
+
 **American Association of Geographers**  
   
 - **UMBC Office of Sustainability – Eco-Ambassador**  
