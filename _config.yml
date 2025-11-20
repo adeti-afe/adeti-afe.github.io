@@ -16,7 +16,7 @@ name                     : &name "Adeti Afe"
 description              : &description "Academic and sustainability work by Adeti Afe – environmental science, GIS, and civil & environmental engineering."
 
 url                      : "https://adeti-afe.github.io"
-baseurl                  : "/adetiafe.github.io"
+baseurl                  : ""
 
 repository               : "adeti-afe/adetiafe.github.io"
 
